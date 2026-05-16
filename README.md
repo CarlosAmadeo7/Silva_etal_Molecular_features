@@ -15,7 +15,7 @@ The materials available in this repository are for demonstration and disclosure 
 ![Differential_frequency](https://github.com/user-attachments/assets/92503fc4-1645-44a1-aded-f7156b6a1dfb)
 
 ## Cite this
-If you use If you use anything in this repository please cite the following publication:
+If you use anything in this repository please cite the following publication:
 Silva, E. C., Quinde, C. A., Cieza, B., Basu, A., Vila, M. M. D. C., & Balcão, V. M. (2024). Molecular Characterization and Genome Mechanical Features of Two Newly Isolated Polyvalent Bacteriophages Infecting Pseudomonas syringae pv. garcae. Genes, 15(1), 113.
 
 URL: https://doi.org/10.3390/genes15010113
